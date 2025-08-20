@@ -1,0 +1,2242 @@
+{
+  "text": " Breaking up is never easy. But saying to body your old clunky work tools, well, that's easy. Just repeat after me. It's not me. It's definitely you. You rigid, unfriendly software. It's time to freshen things up with Monday.com. The first work platform you'll love to use. With stunning dashboards, customizable templates, and built-in AI that actually works, switching to a new work platform has never felt this good. So move on to Monday.com. If you work as a manufacturing facilities engineer, installing a new piece of equipment can be as complex as the machinery itself. From prep work to alignment and testing, it's your team's job to put it all together. That's why it's good to have Granger on your side. With industrial grade products and next day delivery, Granger helps ensure you have everything you need close at hand through every step of the installation. Call 1-800-Granger, click ranger.com or just up by Granger for the ones who get it done. This episode of Ted Tech is sponsored by Esri. There's a master key for solving some of today's toughest challenges and it's hiding in plain sight, maps. We're talking about next-gen maps built with geospatial technology. Esri software GIS lets anyone, from engineers to policy makers, drag and drop data into digital maps that reveal hidden patterns, connections, and opportunities. Need to understand traffic patterns, analyze supply chain risks, or spot untapped markets? These maps don't just show you where something's happening. They help you understand why and that's the real game changer. When problems feel too complex to grasp, let alone solve, GIS turns confusion into clarity. Esri leads this smart mapping revolution. Want to see how it works? Learn more about Esri's GIS technology at whatis.com. That's whatis.com. Ever notice how your phone or laptop, that trusty sidekick you rely on daily, doesn't quite hold a charge like it used to? In those early days, a single charge seemed to last forever, but now you're constantly hunting for an outlet. It's a frustratingly universal experience, and it all boils down to the tiny powerhouse inside the battery. We rely on those little chemical engines for just about everything, from keeping us connected to powering our commutes. But what happens when they finally give up the ghost? Hello everyone, I'm your host, Sheryl Dorsey, and this is Ted Tech, a podcast from Ted. Unlike a tank of gas that's simply used up, a battery's story doesn't have to end there. In fact, at its core, a dead battery isn't all that different from a brand new one. So why can't we just keep recharging those old single-use batteries? And what's the real deal with recycling all these power cells that are piling up? For today's Ted Ed lesson, we dive into the chemistry of batteries and the crucial importance of what happens to them after they power down. Before we dive in, a quick break to hear from our sponsors. And now, your Ted Ed lesson of the day. A drop of gasoline, a match, and a battery, all store energy. But after each expense its energy, only the battery is recyclable. That's because, chemically speaking, a dead battery is actually not that different from a fresh one. Most of the batteries we use today take advantage of the fact that some metals like to release electrons and others like to accept them. For example, in a typical alkaline double-A battery, zinc metal reacts with hydroxide ions changing into zinc oxide and releasing electrons at the negative terminal. The electrons travel through, say, a light bulb, and then return to the battery at the positive terminal where they're accepted by manganese dioxide. Different batteries use different combinations of metals and sometimes non-metals like graphite, but the basic idea is to use a pair of chemical reactions to generate a stream of electrons. Almost all batteries, even single-use batteries, are theoretically rechargeable. That's because the metals and other chemicals are still right there. That's very different than in, say, gasoline where the liquid hydrocarbon molecules are converted to gases. You can't convert exhaust back into gasoline, but with some work you can convert, say, zinc oxide back to zinc. So then what's the difference between these and these? The short answer is that trying to recharge a single-use battery doesn't just force these reactions to run in reverse. It also results in a bunch of side reactions that produce useless contaminants, reducing a battery's capacity, and it could even damage the internal structure of the battery leading to a loss of electrical contact and failure. Rechargeable batteries are engineered to avoid these issues. Look at this lithium ion battery. Both sides have an atomic level structure that you can imagine as lots of docks. So when the battery is powering something, the lithium ships give up their electrons to power the circuit and then sail over to the other side of the battery, dock in an orderly organized way, and meet up with their now-lower-energy electrons. When the battery is being charged, the opposite happens. Over the course of hundreds, sometimes thousands of charge cycles, some of the lithium ion ships sort of veer off course and engage inside reactions, producing stuff that increases the internal resistance of the battery, which in turn makes it lose efficiency and power until it inevitably dies. Even when that happens, you can bring dead batteries back to life, whether they're rechargeable or not, by recycling them. The heart of most battery recycling is a process called smelting, which is basically just melting the metallic parts. This drives off impurities, returning metals back to their initial, orderly state. Unfortunately, in many countries, you can't just toss household batteries in with your regular recycling. You have to take them to a battery collection point or recycling center. Same goes for more complicated rechargeable batteries. You need to bring them to a collection point or send them back to the company you bought them from. It's a pain, but absolutely worth the time and effort because recycling batteries is critical. Not only does it prevent potentially toxic battery metals from leaking into the environment, it conserves scarce and vital resources. Earth has about 22 million tons of lithium, enough for about 2.5 billion EVs. That sounds like plenty, but it's only 25% higher than the number of EVs experts believe it'll take to reach net zero emissions by 2050, and that doesn't even account for laptops, phones, and anything else that uses a lithium ion battery. Currently, most lithium ion batteries are not manufactured with recycling in mind. The designs are intricate and non-standard, and the components are held together by almost indestructible glues, so today, less than 5% of lithium ion batteries are recycled. Regulations that clearly define who is responsible for a spent battery and what should happen to it can boost recycling dramatically. For example, lead acid batteries are generally subject to stringent regulations and are recycled at much higher rates than lithium ion batteries. Over the next century, we'll need to recycle huge numbers of EV batteries, so scientists are working on making the battery recycling process cheaper and more environmentally friendly. Smelting uses a lot of energy and depending on the type of battery can release harmful byproducts. In addition to regulations, industrial processes, and our own individual choices, battery tech will also continue to evolve. There are proof of concept batteries being developed that can convert physical force, ambient sound, and even P into electricity. But if your top priority is to make your number one source of power, number one, sorry to say, but you're in for a long way. That was your TED Ed lesson of the day, written and narrated by George Zaidan. The promise of a green energy future hinges significantly on lithium ion batteries. The workhorse of electric vehicles and energy storage. Yet this crucial technology faces considerable hurdles. The extraction of raw materials like lithium, cobalt, and nickel carries environmental and ethical concerns and the current global supply chain is vulnerable to geopolitical instability. Moreover, the very design of many of today's batteries doesn't prioritize end-of-life processing, leading to a shockingly low recycling rate, less than 5% in some estimates. However, the horizon isn't bleak. Innovative solutions are emerging from direct recycling methods that preserve the battery structure to novel chemical processes that can efficiently recover valuable materials. Companies like Redwood Materials and EcoBAD are pioneering advanced recycling facilities, aiming to create a closed-loop system where old batteries become the feedstock for new ones. Also, research into battery-second-life applications, repurposing use EV batteries for grid storage, offers another avenue to maximize their value and minimize waste. To truly unlock the potential of this circular economy, expanding accessible battery and recycling on both pedestrian and commercial levels is paramount. We need convenient drop-off points, clear regulations that assign responsibility for end-of-life batteries, and economic incentives that make recycling a viable and attractive option for consumers and businesses alike. Just as we've streamlined recycling for paper and aluminum, it robust and accessible infrastructure for battery recycling is essential. This not only mitigates environmental damage and conserves precious resources, but also strengthens domestic supply chains and paves the way for a truly sustainable energy future powered by lithium and beyond. Alright, that's our show. Thanks for listening. Ted Tech is a podcast from Ted. This episode was produced by Trina Manino. Our editor is Alejandra Salazar, and the show is fact checked by Julia Dickerson. Special thanks to Kansan Zaganyardo, Danielle LaVareso, Maria Laddius, Tanzaka Suman Nivon, in Roxanne Highlash. If you're enjoying the show, make sure to subscribe and leave us a review so other people can find us too. I'm Cheryl Dorsey. Let's keep digging into the future. Join me next week for more. Ready to order? Yes. We're earning unlimited 3% cash back on dining and entertainment with a capital one saver card. So let's just get one of everything. Everything. Fire everything. The capital one saver card is at table 27 and they're earning unlimited 3% cash back. Yes, Chef! This is so nice. Had a feeling you'd want to represent cash back on dessert. Oh, Tera Masu! Earn unlimited 3% cash back on dining and entertainment with the capital one saver card. Capital one. What's in your wallet? Terms apply. See capital one.com for details. How will humans and machines work together in the future? We spend so much time discussing how the world's changing. It would be absolutely absurd to believe the role of the CO is not. This is Imagine This, a podcast from BCG that helps the EO's consider possible futures for our world and their businesses. Listen wherever you get your podcasts. This episode is brought to you by Progressive Insurance. Do you ever think about switching insurance companies to see if you could save some cash? Progressive makes it easy to see if you could save when you bundle your home and auto policies. Try it at Progressive.com. Progressive casualty insurance company and affiliates potential savings will vary not available in all states.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.08,
+      "text": " Breaking up is never easy.",
+      "tokens": [50363, 24942, 510, 318, 1239, 2562, 13, 50467],
+      "temperature": 0.0,
+      "avg_logprob": -0.1974439928608556,
+      "compression_ratio": 1.5893536121673004,
+      "no_speech_prob": 0.1497558206319809
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.08,
+      "end": 4.8,
+      "text": " But saying to body your old clunky work tools,",
+      "tokens": [
+        50467, 887, 2282, 284, 1767, 534, 1468, 537, 28898, 670, 4899, 11, 50603
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1974439928608556,
+      "compression_ratio": 1.5893536121673004,
+      "no_speech_prob": 0.1497558206319809
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.8,
+      "end": 6.32,
+      "text": " well, that's easy.",
+      "tokens": [50603, 880, 11, 326, 338, 2562, 13, 50679],
+      "temperature": 0.0,
+      "avg_logprob": -0.1974439928608556,
+      "compression_ratio": 1.5893536121673004,
+      "no_speech_prob": 0.1497558206319809
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.32,
+      "end": 7.68,
+      "text": " Just repeat after me.",
+      "tokens": [50679, 2329, 9585, 706, 502, 13, 50747],
+      "temperature": 0.0,
+      "avg_logprob": -0.1974439928608556,
+      "compression_ratio": 1.5893536121673004,
+      "no_speech_prob": 0.1497558206319809
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 7.68,
+      "end": 8.64,
+      "text": " It's not me.",
+      "tokens": [50747, 632, 338, 407, 502, 13, 50795],
+      "temperature": 0.0,
+      "avg_logprob": -0.1974439928608556,
+      "compression_ratio": 1.5893536121673004,
+      "no_speech_prob": 0.1497558206319809
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 8.64,
+      "end": 10.56,
+      "text": " It's definitely you.",
+      "tokens": [50795, 632, 338, 4753, 345, 13, 50891],
+      "temperature": 0.0,
+      "avg_logprob": -0.1974439928608556,
+      "compression_ratio": 1.5893536121673004,
+      "no_speech_prob": 0.1497558206319809
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 10.56,
+      "end": 12.32,
+      "text": " You rigid, unfriendly software.",
+      "tokens": [50891, 921, 20831, 11, 3684, 1289, 306, 3788, 13, 50979],
+      "temperature": 0.0,
+      "avg_logprob": -0.1974439928608556,
+      "compression_ratio": 1.5893536121673004,
+      "no_speech_prob": 0.1497558206319809
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 13.36,
+      "end": 16.240000000000002,
+      "text": " It's time to freshen things up with Monday.com.",
+      "tokens": [
+        51031, 632, 338, 640, 284, 34093, 831, 1243, 510, 351, 3321, 13, 785,
+        13, 51175
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1974439928608556,
+      "compression_ratio": 1.5893536121673004,
+      "no_speech_prob": 0.1497558206319809
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 16.240000000000002,
+      "end": 18.72,
+      "text": " The first work platform you'll love to use.",
+      "tokens": [
+        51175, 383, 717, 670, 3859, 345, 1183, 1842, 284, 779, 13, 51299
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1974439928608556,
+      "compression_ratio": 1.5893536121673004,
+      "no_speech_prob": 0.1497558206319809
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 18.72,
+      "end": 21.44,
+      "text": " With stunning dashboards, customizable templates,",
+      "tokens": [51299, 2080, 13393, 14470, 12821, 11, 38322, 24019, 11, 51435],
+      "temperature": 0.0,
+      "avg_logprob": -0.1974439928608556,
+      "compression_ratio": 1.5893536121673004,
+      "no_speech_prob": 0.1497558206319809
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 21.44,
+      "end": 23.76,
+      "text": " and built-in AI that actually works,",
+      "tokens": [51435, 290, 3170, 12, 259, 9552, 326, 1682, 2499, 11, 51551],
+      "temperature": 0.0,
+      "avg_logprob": -0.1974439928608556,
+      "compression_ratio": 1.5893536121673004,
+      "no_speech_prob": 0.1497558206319809
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 23.76,
+      "end": 26.96,
+      "text": " switching to a new work platform has never felt this good.",
+      "tokens": [
+        51551, 15430, 284, 257, 649, 670, 3859, 468, 1239, 2936, 428, 922, 13,
+        51711
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1974439928608556,
+      "compression_ratio": 1.5893536121673004,
+      "no_speech_prob": 0.1497558206319809
+    },
+    {
+      "id": 12,
+      "seek": 2696,
+      "start": 26.96,
+      "end": 29.12,
+      "text": " So move on to Monday.com.",
+      "tokens": [50363, 1406, 1445, 319, 284, 3321, 13, 785, 13, 50471],
+      "temperature": 0.0,
+      "avg_logprob": -0.17679961401087638,
+      "compression_ratio": 1.6037735849056605,
+      "no_speech_prob": 0.3552652895450592
+    },
+    {
+      "id": 13,
+      "seek": 2696,
+      "start": 30.16,
+      "end": 32.72,
+      "text": " If you work as a manufacturing facilities engineer,",
+      "tokens": [50523, 1002, 345, 670, 355, 257, 9138, 7291, 11949, 11, 50651],
+      "temperature": 0.0,
+      "avg_logprob": -0.17679961401087638,
+      "compression_ratio": 1.6037735849056605,
+      "no_speech_prob": 0.3552652895450592
+    },
+    {
+      "id": 14,
+      "seek": 2696,
+      "start": 32.72,
+      "end": 36.8,
+      "text": " installing a new piece of equipment can be as complex as the machinery itself.",
+      "tokens": [
+        50651, 15975, 257, 649, 3704, 286, 5112, 460, 307, 355, 3716, 355, 262,
+        20230, 2346, 13, 50855
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17679961401087638,
+      "compression_ratio": 1.6037735849056605,
+      "no_speech_prob": 0.3552652895450592
+    },
+    {
+      "id": 15,
+      "seek": 2696,
+      "start": 36.8,
+      "end": 38.96,
+      "text": " From prep work to alignment and testing,",
+      "tokens": [50855, 3574, 3143, 670, 284, 19114, 290, 4856, 11, 50963],
+      "temperature": 0.0,
+      "avg_logprob": -0.17679961401087638,
+      "compression_ratio": 1.6037735849056605,
+      "no_speech_prob": 0.3552652895450592
+    },
+    {
+      "id": 16,
+      "seek": 2696,
+      "start": 38.96,
+      "end": 41.28,
+      "text": " it's your team's job to put it all together.",
+      "tokens": [
+        50963, 340, 338, 534, 1074, 338, 1693, 284, 1234, 340, 477, 1978, 13,
+        51079
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17679961401087638,
+      "compression_ratio": 1.6037735849056605,
+      "no_speech_prob": 0.3552652895450592
+    },
+    {
+      "id": 17,
+      "seek": 2696,
+      "start": 41.28,
+      "end": 43.84,
+      "text": " That's why it's good to have Granger on your side.",
+      "tokens": [
+        51079, 1320, 338, 1521, 340, 338, 922, 284, 423, 46236, 319, 534, 1735,
+        13, 51207
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17679961401087638,
+      "compression_ratio": 1.6037735849056605,
+      "no_speech_prob": 0.3552652895450592
+    },
+    {
+      "id": 18,
+      "seek": 2696,
+      "start": 43.84,
+      "end": 46.72,
+      "text": " With industrial grade products and next day delivery,",
+      "tokens": [
+        51207, 2080, 7593, 9559, 3186, 290, 1306, 1110, 7585, 11, 51351
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17679961401087638,
+      "compression_ratio": 1.6037735849056605,
+      "no_speech_prob": 0.3552652895450592
+    },
+    {
+      "id": 19,
+      "seek": 2696,
+      "start": 46.72,
+      "end": 50.24,
+      "text": " Granger helps ensure you have everything you need close at hand",
+      "tokens": [
+        51351, 46236, 5419, 4155, 345, 423, 2279, 345, 761, 1969, 379, 1021,
+        51527
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17679961401087638,
+      "compression_ratio": 1.6037735849056605,
+      "no_speech_prob": 0.3552652895450592
+    },
+    {
+      "id": 20,
+      "seek": 2696,
+      "start": 50.24,
+      "end": 52.16,
+      "text": " through every step of the installation.",
+      "tokens": [51527, 832, 790, 2239, 286, 262, 9988, 13, 51623],
+      "temperature": 0.0,
+      "avg_logprob": -0.17679961401087638,
+      "compression_ratio": 1.6037735849056605,
+      "no_speech_prob": 0.3552652895450592
+    },
+    {
+      "id": 21,
+      "seek": 2696,
+      "start": 52.16,
+      "end": 56.64,
+      "text": " Call 1-800-Granger, click ranger.com or just up by Granger",
+      "tokens": [
+        51623, 4889, 352, 12, 7410, 12, 8642, 2564, 11, 3904, 43570, 13, 785,
+        393, 655, 510, 416, 46236, 51847
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17679961401087638,
+      "compression_ratio": 1.6037735849056605,
+      "no_speech_prob": 0.3552652895450592
+    },
+    {
+      "id": 22,
+      "seek": 5664,
+      "start": 56.64,
+      "end": 58.4,
+      "text": " for the ones who get it done.",
+      "tokens": [50363, 329, 262, 3392, 508, 651, 340, 1760, 13, 50451],
+      "temperature": 0.0,
+      "avg_logprob": -0.13843613482536155,
+      "compression_ratio": 1.5042735042735043,
+      "no_speech_prob": 0.10997195541858673
+    },
+    {
+      "id": 23,
+      "seek": 5664,
+      "start": 63.6,
+      "end": 66.72,
+      "text": " This episode of Ted Tech is sponsored by Esri.",
+      "tokens": [
+        50711, 770, 4471, 286, 11396, 9634, 318, 15901, 416, 8678, 380, 13,
+        50867
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13843613482536155,
+      "compression_ratio": 1.5042735042735043,
+      "no_speech_prob": 0.10997195541858673
+    },
+    {
+      "id": 24,
+      "seek": 5664,
+      "start": 66.72,
+      "end": 70.56,
+      "text": " There's a master key for solving some of today's toughest challenges",
+      "tokens": [
+        50867, 1318, 338, 257, 4958, 1994, 329, 18120, 617, 286, 1909, 338,
+        28212, 6459, 51059
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13843613482536155,
+      "compression_ratio": 1.5042735042735043,
+      "no_speech_prob": 0.10997195541858673
+    },
+    {
+      "id": 25,
+      "seek": 5664,
+      "start": 70.56,
+      "end": 73.2,
+      "text": " and it's hiding in plain sight, maps.",
+      "tokens": [
+        51059, 290, 340, 338, 11816, 287, 8631, 6504, 11, 8739, 13, 51191
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13843613482536155,
+      "compression_ratio": 1.5042735042735043,
+      "no_speech_prob": 0.10997195541858673
+    },
+    {
+      "id": 26,
+      "seek": 5664,
+      "start": 73.84,
+      "end": 78.0,
+      "text": " We're talking about next-gen maps built with geospatial technology.",
+      "tokens": [
+        51223, 775, 821, 3375, 546, 1306, 12, 5235, 8739, 3170, 351, 4903, 2117,
+        34961, 3037, 13, 51431
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13843613482536155,
+      "compression_ratio": 1.5042735042735043,
+      "no_speech_prob": 0.10997195541858673
+    },
+    {
+      "id": 27,
+      "seek": 5664,
+      "start": 78.0,
+      "end": 83.44,
+      "text": " Esri software GIS lets anyone, from engineers to policy makers,",
+      "tokens": [
+        51431, 8678, 380, 3788, 402, 1797, 8781, 2687, 11, 422, 12037, 284,
+        2450, 14429, 11, 51703
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13843613482536155,
+      "compression_ratio": 1.5042735042735043,
+      "no_speech_prob": 0.10997195541858673
+    },
+    {
+      "id": 28,
+      "seek": 5664,
+      "start": 83.44,
+      "end": 86.0,
+      "text": " drag and drop data into digital maps",
+      "tokens": [51703, 6715, 290, 4268, 1366, 656, 4875, 8739, 51831],
+      "temperature": 0.0,
+      "avg_logprob": -0.13843613482536155,
+      "compression_ratio": 1.5042735042735043,
+      "no_speech_prob": 0.10997195541858673
+    },
+    {
+      "id": 29,
+      "seek": 8600,
+      "start": 86.0,
+      "end": 89.12,
+      "text": " that reveal hidden patterns, connections, and opportunities.",
+      "tokens": [
+        50363, 326, 7766, 7104, 7572, 11, 8787, 11, 290, 6443, 13, 50519
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13573755536760604,
+      "compression_ratio": 1.5338345864661653,
+      "no_speech_prob": 0.00507193710654974
+    },
+    {
+      "id": 30,
+      "seek": 8600,
+      "start": 89.84,
+      "end": 91.92,
+      "text": " Need to understand traffic patterns,",
+      "tokens": [50555, 10664, 284, 1833, 4979, 7572, 11, 50659],
+      "temperature": 0.0,
+      "avg_logprob": -0.13573755536760604,
+      "compression_ratio": 1.5338345864661653,
+      "no_speech_prob": 0.00507193710654974
+    },
+    {
+      "id": 31,
+      "seek": 8600,
+      "start": 91.92,
+      "end": 95.28,
+      "text": " analyze supply chain risks, or spot untapped markets?",
+      "tokens": [
+        50659, 16602, 5127, 6333, 7476, 11, 393, 4136, 1418, 6320, 5939, 30,
+        50827
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13573755536760604,
+      "compression_ratio": 1.5338345864661653,
+      "no_speech_prob": 0.00507193710654974
+    },
+    {
+      "id": 32,
+      "seek": 8600,
+      "start": 96.0,
+      "end": 99.84,
+      "text": " These maps don't just show you where something's happening.",
+      "tokens": [
+        50863, 2312, 8739, 836, 470, 655, 905, 345, 810, 1223, 338, 5836, 13,
+        51055
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13573755536760604,
+      "compression_ratio": 1.5338345864661653,
+      "no_speech_prob": 0.00507193710654974
+    },
+    {
+      "id": 33,
+      "seek": 8600,
+      "start": 99.84,
+      "end": 104.32,
+      "text": " They help you understand why and that's the real game changer.",
+      "tokens": [
+        51055, 1119, 1037, 345, 1833, 1521, 290, 326, 338, 262, 1103, 983, 1488,
+        263, 13, 51279
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13573755536760604,
+      "compression_ratio": 1.5338345864661653,
+      "no_speech_prob": 0.00507193710654974
+    },
+    {
+      "id": 34,
+      "seek": 8600,
+      "start": 104.88,
+      "end": 108.48,
+      "text": " When problems feel too complex to grasp, let alone solve,",
+      "tokens": [
+        51307, 1649, 2761, 1254, 1165, 3716, 284, 13180, 11, 1309, 3436, 8494,
+        11, 51487
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13573755536760604,
+      "compression_ratio": 1.5338345864661653,
+      "no_speech_prob": 0.00507193710654974
+    },
+    {
+      "id": 35,
+      "seek": 8600,
+      "start": 109.2,
+      "end": 112.08,
+      "text": " GIS turns confusion into clarity.",
+      "tokens": [51523, 402, 1797, 4962, 10802, 656, 16287, 13, 51667],
+      "temperature": 0.0,
+      "avg_logprob": -0.13573755536760604,
+      "compression_ratio": 1.5338345864661653,
+      "no_speech_prob": 0.00507193710654974
+    },
+    {
+      "id": 36,
+      "seek": 8600,
+      "start": 112.08,
+      "end": 114.88,
+      "text": " Esri leads this smart mapping revolution.",
+      "tokens": [51667, 8678, 380, 5983, 428, 4451, 16855, 5854, 13, 51807],
+      "temperature": 0.0,
+      "avg_logprob": -0.13573755536760604,
+      "compression_ratio": 1.5338345864661653,
+      "no_speech_prob": 0.00507193710654974
+    },
+    {
+      "id": 37,
+      "seek": 11488,
+      "start": 115.52,
+      "end": 116.72,
+      "text": " Want to see how it works?",
+      "tokens": [50395, 16168, 284, 766, 703, 340, 2499, 30, 50455],
+      "temperature": 0.0,
+      "avg_logprob": -0.20108620161862717,
+      "compression_ratio": 1.4776785714285714,
+      "no_speech_prob": 0.0046350713819265366
+    },
+    {
+      "id": 38,
+      "seek": 11488,
+      "start": 117.36,
+      "end": 122.88,
+      "text": " Learn more about Esri's GIS technology at whatis.com.",
+      "tokens": [
+        50487, 14365, 517, 546, 8678, 380, 338, 402, 1797, 3037, 379, 644, 271,
+        13, 785, 13, 50763
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20108620161862717,
+      "compression_ratio": 1.4776785714285714,
+      "no_speech_prob": 0.0046350713819265366
+    },
+    {
+      "id": 39,
+      "seek": 11488,
+      "start": 122.88,
+      "end": 125.84,
+      "text": " That's whatis.com.",
+      "tokens": [50763, 1320, 338, 644, 271, 13, 785, 13, 50911],
+      "temperature": 0.0,
+      "avg_logprob": -0.20108620161862717,
+      "compression_ratio": 1.4776785714285714,
+      "no_speech_prob": 0.0046350713819265366
+    },
+    {
+      "id": 40,
+      "seek": 11488,
+      "start": 127.84,
+      "end": 130.07999999999998,
+      "text": " Ever notice how your phone or laptop,",
+      "tokens": [51011, 10776, 4003, 703, 534, 3072, 393, 13224, 11, 51123],
+      "temperature": 0.0,
+      "avg_logprob": -0.20108620161862717,
+      "compression_ratio": 1.4776785714285714,
+      "no_speech_prob": 0.0046350713819265366
+    },
+    {
+      "id": 41,
+      "seek": 11488,
+      "start": 130.72,
+      "end": 136.0,
+      "text": " that trusty sidekick you rely on daily, doesn't quite hold a charge like it used to?",
+      "tokens": [
+        51155, 326, 3774, 88, 1735, 24585, 345, 8814, 319, 4445, 11, 1595, 470,
+        2407, 1745, 257, 3877, 588, 340, 973, 284, 30, 51419
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20108620161862717,
+      "compression_ratio": 1.4776785714285714,
+      "no_speech_prob": 0.0046350713819265366
+    },
+    {
+      "id": 42,
+      "seek": 11488,
+      "start": 137.28,
+      "end": 140.64,
+      "text": " In those early days, a single charge seemed to last forever,",
+      "tokens": [
+        51483, 554, 883, 1903, 1528, 11, 257, 2060, 3877, 3947, 284, 938, 8097,
+        11, 51651
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20108620161862717,
+      "compression_ratio": 1.4776785714285714,
+      "no_speech_prob": 0.0046350713819265366
+    },
+    {
+      "id": 43,
+      "seek": 11488,
+      "start": 141.28,
+      "end": 143.6,
+      "text": " but now you're constantly hunting for an outlet.",
+      "tokens": [
+        51683, 475, 783, 345, 821, 7558, 10988, 329, 281, 16615, 13, 51799
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20108620161862717,
+      "compression_ratio": 1.4776785714285714,
+      "no_speech_prob": 0.0046350713819265366
+    },
+    {
+      "id": 44,
+      "seek": 14360,
+      "start": 144.23999999999998,
+      "end": 146.96,
+      "text": " It's a frustratingly universal experience,",
+      "tokens": [50395, 632, 338, 257, 16655, 306, 10112, 1998, 11, 50531],
+      "temperature": 0.0,
+      "avg_logprob": -0.1819348511872468,
+      "compression_ratio": 1.472972972972973,
+      "no_speech_prob": 0.001598678296431899
+    },
+    {
+      "id": 45,
+      "seek": 14360,
+      "start": 147.68,
+      "end": 152.24,
+      "text": " and it all boils down to the tiny powerhouse inside the battery.",
+      "tokens": [
+        50567, 290, 340, 477, 40169, 866, 284, 262, 7009, 34886, 2641, 262,
+        6555, 13, 50795
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1819348511872468,
+      "compression_ratio": 1.472972972972973,
+      "no_speech_prob": 0.001598678296431899
+    },
+    {
+      "id": 46,
+      "seek": 14360,
+      "start": 153.04,
+      "end": 157.04,
+      "text": " We rely on those little chemical engines for just about everything,",
+      "tokens": [
+        50835, 775, 8814, 319, 883, 1310, 5931, 11874, 329, 655, 546, 2279, 11,
+        51035
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1819348511872468,
+      "compression_ratio": 1.472972972972973,
+      "no_speech_prob": 0.001598678296431899
+    },
+    {
+      "id": 47,
+      "seek": 14360,
+      "start": 157.68,
+      "end": 161.2,
+      "text": " from keeping us connected to powering our commutes.",
+      "tokens": [
+        51067, 422, 5291, 514, 5884, 284, 43067, 674, 725, 1769, 13, 51243
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1819348511872468,
+      "compression_ratio": 1.472972972972973,
+      "no_speech_prob": 0.001598678296431899
+    },
+    {
+      "id": 48,
+      "seek": 14360,
+      "start": 162.07999999999998,
+      "end": 164.79999999999998,
+      "text": " But what happens when they finally give up the ghost?",
+      "tokens": [
+        51287, 887, 644, 4325, 618, 484, 3443, 1577, 510, 262, 10905, 30, 51423
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1819348511872468,
+      "compression_ratio": 1.472972972972973,
+      "no_speech_prob": 0.001598678296431899
+    },
+    {
+      "id": 49,
+      "seek": 14360,
+      "start": 168.64,
+      "end": 171.84,
+      "text": " Hello everyone, I'm your host, Sheryl Dorsey,",
+      "tokens": [
+        51615, 18435, 2506, 11, 314, 1101, 534, 2583, 11, 6528, 2645, 12528,
+        4397, 11, 51775
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1819348511872468,
+      "compression_ratio": 1.472972972972973,
+      "no_speech_prob": 0.001598678296431899
+    },
+    {
+      "id": 50,
+      "seek": 17184,
+      "start": 172.48,
+      "end": 175.84,
+      "text": " and this is Ted Tech, a podcast from Ted.",
+      "tokens": [
+        50395, 290, 428, 318, 11396, 9634, 11, 257, 9905, 422, 11396, 13, 50563
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1324028115523489,
+      "compression_ratio": 1.554054054054054,
+      "no_speech_prob": 0.002433962421491742
+    },
+    {
+      "id": 51,
+      "seek": 17184,
+      "start": 177.04,
+      "end": 180.56,
+      "text": " Unlike a tank of gas that's simply used up,",
+      "tokens": [
+        50623, 12101, 257, 6873, 286, 3623, 326, 338, 2391, 973, 510, 11, 50799
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1324028115523489,
+      "compression_ratio": 1.554054054054054,
+      "no_speech_prob": 0.002433962421491742
+    },
+    {
+      "id": 52,
+      "seek": 17184,
+      "start": 181.44,
+      "end": 184.24,
+      "text": " a battery's story doesn't have to end there.",
+      "tokens": [
+        50843, 257, 6555, 338, 1621, 1595, 470, 423, 284, 886, 612, 13, 50983
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1324028115523489,
+      "compression_ratio": 1.554054054054054,
+      "no_speech_prob": 0.002433962421491742
+    },
+    {
+      "id": 53,
+      "seek": 17184,
+      "start": 184.96,
+      "end": 191.28,
+      "text": " In fact, at its core, a dead battery isn't all that different from a brand new one.",
+      "tokens": [
+        51019, 554, 1109, 11, 379, 663, 4755, 11, 257, 2636, 6555, 2125, 470,
+        477, 326, 1180, 422, 257, 4508, 649, 530, 13, 51335
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1324028115523489,
+      "compression_ratio": 1.554054054054054,
+      "no_speech_prob": 0.002433962421491742
+    },
+    {
+      "id": 54,
+      "seek": 17184,
+      "start": 192.24,
+      "end": 196.96,
+      "text": " So why can't we just keep recharging those old single-use batteries?",
+      "tokens": [
+        51383, 1406, 1521, 460, 470, 356, 655, 1394, 302, 31498, 883, 1468,
+        2060, 12, 1904, 13591, 30, 51619
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1324028115523489,
+      "compression_ratio": 1.554054054054054,
+      "no_speech_prob": 0.002433962421491742
+    },
+    {
+      "id": 55,
+      "seek": 17184,
+      "start": 197.6,
+      "end": 201.52,
+      "text": " And what's the real deal with recycling all these power cells",
+      "tokens": [
+        51651, 843, 644, 338, 262, 1103, 1730, 351, 25914, 477, 777, 1176, 4778,
+        51847
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1324028115523489,
+      "compression_ratio": 1.554054054054054,
+      "no_speech_prob": 0.002433962421491742
+    },
+    {
+      "id": 56,
+      "seek": 20184,
+      "start": 201.84,
+      "end": 205.84,
+      "text": " that are piling up? For today's Ted Ed lesson,",
+      "tokens": [
+        50363, 326, 389, 48060, 510, 30, 1114, 1909, 338, 11396, 1717, 11483,
+        11, 50563
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1492359117529858,
+      "compression_ratio": 1.5406698564593302,
+      "no_speech_prob": 0.007792786229401827
+    },
+    {
+      "id": 57,
+      "seek": 20184,
+      "start": 206.48,
+      "end": 210.96,
+      "text": " we dive into the chemistry of batteries and the crucial importance",
+      "tokens": [
+        50595, 356, 15647, 656, 262, 16585, 286, 13591, 290, 262, 8780, 6817,
+        50819
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1492359117529858,
+      "compression_ratio": 1.5406698564593302,
+      "no_speech_prob": 0.007792786229401827
+    },
+    {
+      "id": 58,
+      "seek": 20184,
+      "start": 210.96,
+      "end": 213.6,
+      "text": " of what happens to them after they power down.",
+      "tokens": [
+        50819, 286, 644, 4325, 284, 606, 706, 484, 1176, 866, 13, 50951
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1492359117529858,
+      "compression_ratio": 1.5406698564593302,
+      "no_speech_prob": 0.007792786229401827
+    },
+    {
+      "id": 59,
+      "seek": 20184,
+      "start": 214.88,
+      "end": 217.92000000000002,
+      "text": " Before we dive in, a quick break to hear from our sponsors.",
+      "tokens": [
+        51015, 7413, 356, 15647, 287, 11, 257, 2068, 2270, 284, 3285, 422, 674,
+        18073, 13, 51167
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1492359117529858,
+      "compression_ratio": 1.5406698564593302,
+      "no_speech_prob": 0.007792786229401827
+    },
+    {
+      "id": 60,
+      "seek": 20184,
+      "start": 222.0,
+      "end": 224.64000000000001,
+      "text": " And now, your Ted Ed lesson of the day.",
+      "tokens": [
+        51371, 843, 783, 11, 534, 11396, 1717, 11483, 286, 262, 1110, 13, 51503
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1492359117529858,
+      "compression_ratio": 1.5406698564593302,
+      "no_speech_prob": 0.007792786229401827
+    },
+    {
+      "id": 61,
+      "seek": 20184,
+      "start": 227.04,
+      "end": 231.36,
+      "text": " A drop of gasoline, a match, and a battery, all store energy.",
+      "tokens": [
+        51623, 317, 4268, 286, 21408, 11, 257, 2872, 11, 290, 257, 6555, 11,
+        477, 3650, 2568, 13, 51839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1492359117529858,
+      "compression_ratio": 1.5406698564593302,
+      "no_speech_prob": 0.007792786229401827
+    },
+    {
+      "id": 62,
+      "seek": 23184,
+      "start": 231.92000000000002,
+      "end": 236.88,
+      "text": " But after each expense its energy, only the battery is recyclable.",
+      "tokens": [
+        50367, 887, 706, 1123, 10907, 663, 2568, 11, 691, 262, 6555, 318, 15092,
+        565, 540, 13, 50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14184449019941311,
+      "compression_ratio": 1.6828358208955223,
+      "no_speech_prob": 0.004055654630064964
+    },
+    {
+      "id": 63,
+      "seek": 23184,
+      "start": 236.88,
+      "end": 242.0,
+      "text": " That's because, chemically speaking, a dead battery is actually not that different from a fresh one.",
+      "tokens": [
+        50615, 1320, 338, 780, 11, 49966, 5486, 11, 257, 2636, 6555, 318, 1682,
+        407, 326, 1180, 422, 257, 4713, 530, 13, 50871
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14184449019941311,
+      "compression_ratio": 1.6828358208955223,
+      "no_speech_prob": 0.004055654630064964
+    },
+    {
+      "id": 64,
+      "seek": 23184,
+      "start": 242.72,
+      "end": 247.52,
+      "text": " Most of the batteries we use today take advantage of the fact that some metals like to release",
+      "tokens": [
+        50907, 4042, 286, 262, 13591, 356, 779, 1909, 1011, 4621, 286, 262,
+        1109, 326, 617, 21782, 588, 284, 2650, 51147
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14184449019941311,
+      "compression_ratio": 1.6828358208955223,
+      "no_speech_prob": 0.004055654630064964
+    },
+    {
+      "id": 65,
+      "seek": 23184,
+      "start": 247.52,
+      "end": 254.0,
+      "text": " electrons and others like to accept them. For example, in a typical alkaline double-A battery,",
+      "tokens": [
+        51147, 28722, 290, 1854, 588, 284, 2453, 606, 13, 1114, 1672, 11, 287,
+        257, 7226, 32915, 20663, 4274, 12, 32, 6555, 11, 51471
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14184449019941311,
+      "compression_ratio": 1.6828358208955223,
+      "no_speech_prob": 0.004055654630064964
+    },
+    {
+      "id": 66,
+      "seek": 23184,
+      "start": 254.0,
+      "end": 260.8,
+      "text": " zinc metal reacts with hydroxide ions changing into zinc oxide and releasing electrons at the",
+      "tokens": [
+        51471, 31861, 6147, 30174, 351, 7409, 13907, 485, 39270, 5609, 656,
+        31861, 30788, 290, 13011, 28722, 379, 262, 51811
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14184449019941311,
+      "compression_ratio": 1.6828358208955223,
+      "no_speech_prob": 0.004055654630064964
+    },
+    {
+      "id": 67,
+      "seek": 26080,
+      "start": 260.8,
+      "end": 266.0,
+      "text": " negative terminal. The electrons travel through, say, a light bulb, and then return to the battery",
+      "tokens": [
+        50363, 4633, 12094, 13, 383, 28722, 3067, 832, 11, 910, 11, 257, 1657,
+        28287, 11, 290, 788, 1441, 284, 262, 6555, 50623
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07981450778921854,
+      "compression_ratio": 1.71484375,
+      "no_speech_prob": 0.008424925617873669
+    },
+    {
+      "id": 68,
+      "seek": 26080,
+      "start": 266.0,
+      "end": 271.92,
+      "text": " at the positive terminal where they're accepted by manganese dioxide. Different batteries use",
+      "tokens": [
+        50623, 379, 262, 3967, 12094, 810, 484, 821, 6292, 416, 582, 1030, 2771,
+        17556, 13, 20615, 13591, 779, 50919
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07981450778921854,
+      "compression_ratio": 1.71484375,
+      "no_speech_prob": 0.008424925617873669
+    },
+    {
+      "id": 69,
+      "seek": 26080,
+      "start": 271.92,
+      "end": 277.36,
+      "text": " different combinations of metals and sometimes non-metals like graphite, but the basic idea is to",
+      "tokens": [
+        50919, 1180, 17790, 286, 21782, 290, 3360, 1729, 12, 4164, 874, 588,
+        4823, 578, 11, 475, 262, 4096, 2126, 318, 284, 51191
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07981450778921854,
+      "compression_ratio": 1.71484375,
+      "no_speech_prob": 0.008424925617873669
+    },
+    {
+      "id": 70,
+      "seek": 26080,
+      "start": 277.36,
+      "end": 281.68,
+      "text": " use a pair of chemical reactions to generate a stream of electrons.",
+      "tokens": [
+        51191, 779, 257, 5166, 286, 5931, 12737, 284, 7716, 257, 4269, 286,
+        28722, 13, 51407
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07981450778921854,
+      "compression_ratio": 1.71484375,
+      "no_speech_prob": 0.008424925617873669
+    },
+    {
+      "id": 71,
+      "seek": 26080,
+      "start": 282.48,
+      "end": 287.84000000000003,
+      "text": " Almost all batteries, even single-use batteries, are theoretically rechargeable.",
+      "tokens": [
+        51447, 16699, 477, 13591, 11, 772, 2060, 12, 1904, 13591, 11, 389,
+        26787, 27978, 540, 13, 51715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07981450778921854,
+      "compression_ratio": 1.71484375,
+      "no_speech_prob": 0.008424925617873669
+    },
+    {
+      "id": 72,
+      "seek": 28784,
+      "start": 287.84,
+      "end": 292.4,
+      "text": " That's because the metals and other chemicals are still right there. That's very different than",
+      "tokens": [
+        50363, 1320, 338, 780, 262, 21782, 290, 584, 12910, 389, 991, 826, 612,
+        13, 1320, 338, 845, 1180, 621, 50591
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09594985260360542,
+      "compression_ratio": 1.6363636363636365,
+      "no_speech_prob": 0.005732913967221975
+    },
+    {
+      "id": 73,
+      "seek": 28784,
+      "start": 292.4,
+      "end": 298.96,
+      "text": " in, say, gasoline where the liquid hydrocarbon molecules are converted to gases. You can't convert",
+      "tokens": [
+        50591, 287, 11, 910, 11, 21408, 810, 262, 8122, 17173, 29255, 17745,
+        389, 11513, 284, 21678, 13, 921, 460, 470, 10385, 50919
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09594985260360542,
+      "compression_ratio": 1.6363636363636365,
+      "no_speech_prob": 0.005732913967221975
+    },
+    {
+      "id": 74,
+      "seek": 28784,
+      "start": 298.96,
+      "end": 305.35999999999996,
+      "text": " exhaust back into gasoline, but with some work you can convert, say, zinc oxide back to zinc.",
+      "tokens": [
+        50919, 12142, 736, 656, 21408, 11, 475, 351, 617, 670, 345, 460, 10385,
+        11, 910, 11, 31861, 30788, 736, 284, 31861, 13, 51239
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09594985260360542,
+      "compression_ratio": 1.6363636363636365,
+      "no_speech_prob": 0.005732913967221975
+    },
+    {
+      "id": 75,
+      "seek": 28784,
+      "start": 306.47999999999996,
+      "end": 312.08,
+      "text": " So then what's the difference between these and these? The short answer is that trying to",
+      "tokens": [
+        51295, 1406, 788, 644, 338, 262, 3580, 1022, 777, 290, 777, 30, 383,
+        1790, 3280, 318, 326, 2111, 284, 51575
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09594985260360542,
+      "compression_ratio": 1.6363636363636365,
+      "no_speech_prob": 0.005732913967221975
+    },
+    {
+      "id": 76,
+      "seek": 31208,
+      "start": 312.08,
+      "end": 318.8,
+      "text": " recharge a single-use battery doesn't just force these reactions to run in reverse. It also results",
+      "tokens": [
+        50363, 27978, 257, 2060, 12, 1904, 6555, 1595, 470, 655, 2700, 777,
+        12737, 284, 1057, 287, 9575, 13, 632, 635, 2482, 50699
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07494985696041223,
+      "compression_ratio": 1.6895306859205776,
+      "no_speech_prob": 0.052768997848033905
+    },
+    {
+      "id": 77,
+      "seek": 31208,
+      "start": 318.8,
+      "end": 324.71999999999997,
+      "text": " in a bunch of side reactions that produce useless contaminants, reducing a battery's capacity,",
+      "tokens": [
+        50699, 287, 257, 7684, 286, 1735, 12737, 326, 4439, 13894, 46983, 11,
+        8868, 257, 6555, 338, 5339, 11, 50995
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07494985696041223,
+      "compression_ratio": 1.6895306859205776,
+      "no_speech_prob": 0.052768997848033905
+    },
+    {
+      "id": 78,
+      "seek": 31208,
+      "start": 324.71999999999997,
+      "end": 329.36,
+      "text": " and it could even damage the internal structure of the battery leading to a loss of electrical",
+      "tokens": [
+        50995, 290, 340, 714, 772, 2465, 262, 5387, 4645, 286, 262, 6555, 3756,
+        284, 257, 2994, 286, 12278, 51227
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07494985696041223,
+      "compression_ratio": 1.6895306859205776,
+      "no_speech_prob": 0.052768997848033905
+    },
+    {
+      "id": 79,
+      "seek": 31208,
+      "start": 329.36,
+      "end": 335.84,
+      "text": " contact and failure. Rechargeable batteries are engineered to avoid these issues.",
+      "tokens": [
+        51227, 2800, 290, 5287, 13, 797, 10136, 540, 13591, 389, 23371, 284,
+        3368, 777, 2428, 13, 51551
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07494985696041223,
+      "compression_ratio": 1.6895306859205776,
+      "no_speech_prob": 0.052768997848033905
+    },
+    {
+      "id": 80,
+      "seek": 31208,
+      "start": 335.84,
+      "end": 340.88,
+      "text": " Look at this lithium ion battery. Both sides have an atomic level structure that you can imagine",
+      "tokens": [
+        51551, 6803, 379, 428, 28444, 22088, 6555, 13, 5747, 5389, 423, 281,
+        17226, 1241, 4645, 326, 345, 460, 5967, 51803
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07494985696041223,
+      "compression_ratio": 1.6895306859205776,
+      "no_speech_prob": 0.052768997848033905
+    },
+    {
+      "id": 81,
+      "seek": 34088,
+      "start": 340.88,
+      "end": 346.4,
+      "text": " as lots of docks. So when the battery is powering something, the lithium ships give up their",
+      "tokens": [
+        50363, 355, 6041, 286, 45906, 13, 1406, 618, 262, 6555, 318, 43067,
+        1223, 11, 262, 28444, 7937, 1577, 510, 511, 50639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10461572769585006,
+      "compression_ratio": 1.7925925925925925,
+      "no_speech_prob": 0.017153598368167877
+    },
+    {
+      "id": 82,
+      "seek": 34088,
+      "start": 346.4,
+      "end": 351.76,
+      "text": " electrons to power the circuit and then sail over to the other side of the battery, dock in an",
+      "tokens": [
+        50639, 28722, 284, 1176, 262, 10349, 290, 788, 14936, 625, 284, 262,
+        584, 1735, 286, 262, 6555, 11, 23423, 287, 281, 50907
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10461572769585006,
+      "compression_ratio": 1.7925925925925925,
+      "no_speech_prob": 0.017153598368167877
+    },
+    {
+      "id": 83,
+      "seek": 34088,
+      "start": 351.76,
+      "end": 358.64,
+      "text": " orderly organized way, and meet up with their now-lower-energy electrons. When the battery is being",
+      "tokens": [
+        50907, 39164, 8389, 835, 11, 290, 1826, 510, 351, 511, 783, 12, 21037,
+        12, 22554, 28722, 13, 1649, 262, 6555, 318, 852, 51251
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10461572769585006,
+      "compression_ratio": 1.7925925925925925,
+      "no_speech_prob": 0.017153598368167877
+    },
+    {
+      "id": 84,
+      "seek": 34088,
+      "start": 358.64,
+      "end": 364.56,
+      "text": " charged, the opposite happens. Over the course of hundreds, sometimes thousands of charge cycles,",
+      "tokens": [
+        51251, 5047, 11, 262, 6697, 4325, 13, 3827, 262, 1781, 286, 5179, 11,
+        3360, 4138, 286, 3877, 16006, 11, 51547
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10461572769585006,
+      "compression_ratio": 1.7925925925925925,
+      "no_speech_prob": 0.017153598368167877
+    },
+    {
+      "id": 85,
+      "seek": 34088,
+      "start": 364.56,
+      "end": 370.71999999999997,
+      "text": " some of the lithium ion ships sort of veer off course and engage inside reactions, producing stuff",
+      "tokens": [
+        51547, 617, 286, 262, 28444, 22088, 7937, 3297, 286, 1569, 263, 572,
+        1781, 290, 8209, 2641, 12737, 11, 9194, 3404, 51855
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10461572769585006,
+      "compression_ratio": 1.7925925925925925,
+      "no_speech_prob": 0.017153598368167877
+    },
+    {
+      "id": 86,
+      "seek": 37072,
+      "start": 370.72,
+      "end": 376.08000000000004,
+      "text": " that increases the internal resistance of the battery, which in turn makes it lose efficiency and",
+      "tokens": [
+        50363, 326, 5732, 262, 5387, 6625, 286, 262, 6555, 11, 543, 287, 1210,
+        1838, 340, 4425, 9332, 290, 50631
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07171011532054228,
+      "compression_ratio": 1.6150627615062763,
+      "no_speech_prob": 0.00617299834266305
+    },
+    {
+      "id": 87,
+      "seek": 37072,
+      "start": 376.08000000000004,
+      "end": 383.84000000000003,
+      "text": " power until it inevitably dies. Even when that happens, you can bring dead batteries back to life,",
+      "tokens": [
+        50631, 1176, 1566, 340, 16857, 10564, 13, 3412, 618, 326, 4325, 11, 345,
+        460, 2222, 2636, 13591, 736, 284, 1204, 11, 51019
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07171011532054228,
+      "compression_ratio": 1.6150627615062763,
+      "no_speech_prob": 0.00617299834266305
+    },
+    {
+      "id": 88,
+      "seek": 37072,
+      "start": 383.84000000000003,
+      "end": 389.44000000000005,
+      "text": " whether they're rechargeable or not, by recycling them. The heart of most battery recycling is a",
+      "tokens": [
+        51019, 1771, 484, 821, 27978, 540, 393, 407, 11, 416, 25914, 606, 13,
+        383, 2612, 286, 749, 6555, 25914, 318, 257, 51299
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07171011532054228,
+      "compression_ratio": 1.6150627615062763,
+      "no_speech_prob": 0.00617299834266305
+    },
+    {
+      "id": 89,
+      "seek": 37072,
+      "start": 389.44000000000005,
+      "end": 394.88000000000005,
+      "text": " process called smelting, which is basically just melting the metallic parts. This drives off",
+      "tokens": [
+        51299, 1429, 1444, 895, 417, 889, 11, 543, 318, 6209, 655, 24203, 262,
+        27306, 3354, 13, 770, 10182, 572, 51571
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07171011532054228,
+      "compression_ratio": 1.6150627615062763,
+      "no_speech_prob": 0.00617299834266305
+    },
+    {
+      "id": 90,
+      "seek": 39488,
+      "start": 395.12,
+      "end": 401.12,
+      "text": " impurities, returning metals back to their initial, orderly state. Unfortunately, in many countries,",
+      "tokens": [
+        50375, 848, 10886, 11, 8024, 21782, 736, 284, 511, 4238, 11, 39164,
+        1181, 13, 8989, 11, 287, 867, 2678, 11, 50675
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09747695023158812,
+      "compression_ratio": 1.7741935483870968,
+      "no_speech_prob": 0.018492572009563446
+    },
+    {
+      "id": 91,
+      "seek": 39488,
+      "start": 401.12,
+      "end": 406.0,
+      "text": " you can't just toss household batteries in with your regular recycling. You have to take them to",
+      "tokens": [
+        50675, 345, 460, 470, 655, 12153, 6641, 13591, 287, 351, 534, 3218,
+        25914, 13, 921, 423, 284, 1011, 606, 284, 50919
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09747695023158812,
+      "compression_ratio": 1.7741935483870968,
+      "no_speech_prob": 0.018492572009563446
+    },
+    {
+      "id": 92,
+      "seek": 39488,
+      "start": 406.0,
+      "end": 411.6,
+      "text": " a battery collection point or recycling center. Same goes for more complicated rechargeable batteries.",
+      "tokens": [
+        50919, 257, 6555, 4947, 966, 393, 25914, 3641, 13, 16766, 2925, 329,
+        517, 8253, 27978, 540, 13591, 13, 51199
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09747695023158812,
+      "compression_ratio": 1.7741935483870968,
+      "no_speech_prob": 0.018492572009563446
+    },
+    {
+      "id": 93,
+      "seek": 39488,
+      "start": 411.6,
+      "end": 416.32,
+      "text": " You need to bring them to a collection point or send them back to the company you bought them from.",
+      "tokens": [
+        51199, 921, 761, 284, 2222, 606, 284, 257, 4947, 966, 393, 3758, 606,
+        736, 284, 262, 1664, 345, 5839, 606, 422, 13, 51435
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09747695023158812,
+      "compression_ratio": 1.7741935483870968,
+      "no_speech_prob": 0.018492572009563446
+    },
+    {
+      "id": 94,
+      "seek": 39488,
+      "start": 416.32,
+      "end": 421.92,
+      "text": " It's a pain, but absolutely worth the time and effort because recycling batteries is critical.",
+      "tokens": [
+        51435, 632, 338, 257, 2356, 11, 475, 5543, 2861, 262, 640, 290, 3626,
+        780, 25914, 13591, 318, 4688, 13, 51715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09747695023158812,
+      "compression_ratio": 1.7741935483870968,
+      "no_speech_prob": 0.018492572009563446
+    },
+    {
+      "id": 95,
+      "seek": 42192,
+      "start": 421.92,
+      "end": 426.32,
+      "text": " Not only does it prevent potentially toxic battery metals from leaking into the environment,",
+      "tokens": [
+        50363, 1892, 691, 857, 340, 2948, 6196, 11422, 6555, 21782, 422, 25243,
+        656, 262, 2858, 11, 50583
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08707377595721551,
+      "compression_ratio": 1.5627118644067797,
+      "no_speech_prob": 0.009358473122119904
+    },
+    {
+      "id": 96,
+      "seek": 42192,
+      "start": 426.32,
+      "end": 433.28000000000003,
+      "text": " it conserves scarce and vital resources. Earth has about 22 million tons of lithium,",
+      "tokens": [
+        50583, 340, 4055, 274, 18549, 290, 9204, 4133, 13, 3668, 468, 546, 2534,
+        1510, 10860, 286, 28444, 11, 50931
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08707377595721551,
+      "compression_ratio": 1.5627118644067797,
+      "no_speech_prob": 0.009358473122119904
+    },
+    {
+      "id": 97,
+      "seek": 42192,
+      "start": 433.28000000000003,
+      "end": 439.12,
+      "text": " enough for about 2.5 billion EVs. That sounds like plenty, but it's only 25% higher than the",
+      "tokens": [
+        50931, 1576, 329, 546, 362, 13, 20, 2997, 46229, 13, 1320, 5238, 588,
+        6088, 11, 475, 340, 338, 691, 1679, 4, 2440, 621, 262, 51223
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08707377595721551,
+      "compression_ratio": 1.5627118644067797,
+      "no_speech_prob": 0.009358473122119904
+    },
+    {
+      "id": 98,
+      "seek": 42192,
+      "start": 439.12,
+      "end": 444.96000000000004,
+      "text": " number of EVs experts believe it'll take to reach net zero emissions by 2050, and that doesn't",
+      "tokens": [
+        51223, 1271, 286, 46229, 6154, 1975, 340, 1183, 1011, 284, 3151, 2010,
+        6632, 8971, 416, 32215, 11, 290, 326, 1595, 470, 51515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08707377595721551,
+      "compression_ratio": 1.5627118644067797,
+      "no_speech_prob": 0.009358473122119904
+    },
+    {
+      "id": 99,
+      "seek": 42192,
+      "start": 444.96000000000004,
+      "end": 450.48,
+      "text": " even account for laptops, phones, and anything else that uses a lithium ion battery. Currently,",
+      "tokens": [
+        51515, 772, 1848, 329, 26635, 11, 9512, 11, 290, 1997, 2073, 326, 3544,
+        257, 28444, 22088, 6555, 13, 16888, 11, 51791
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08707377595721551,
+      "compression_ratio": 1.5627118644067797,
+      "no_speech_prob": 0.009358473122119904
+    },
+    {
+      "id": 100,
+      "seek": 45048,
+      "start": 450.96000000000004,
+      "end": 456.8,
+      "text": " most lithium ion batteries are not manufactured with recycling in mind. The designs are intricate",
+      "tokens": [
+        50387, 749, 28444, 22088, 13591, 389, 407, 15943, 351, 25914, 287, 2000,
+        13, 383, 9824, 389, 28746, 50679
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07280117709462236,
+      "compression_ratio": 1.6666666666666667,
+      "no_speech_prob": 0.009833225980401039
+    },
+    {
+      "id": 101,
+      "seek": 45048,
+      "start": 456.8,
+      "end": 462.24,
+      "text": " and non-standard, and the components are held together by almost indestructible glues, so today,",
+      "tokens": [
+        50679, 290, 1729, 12, 20307, 11, 290, 262, 6805, 389, 2714, 1978, 416,
+        2048, 773, 395, 1356, 856, 1278, 947, 11, 523, 1909, 11, 50951
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07280117709462236,
+      "compression_ratio": 1.6666666666666667,
+      "no_speech_prob": 0.009833225980401039
+    },
+    {
+      "id": 102,
+      "seek": 45048,
+      "start": 462.24,
+      "end": 469.44,
+      "text": " less than 5% of lithium ion batteries are recycled. Regulations that clearly define who is",
+      "tokens": [
+        50951, 1342, 621, 642, 4, 286, 28444, 22088, 13591, 389, 32099, 13,
+        26108, 326, 4084, 8160, 508, 318, 51311
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07280117709462236,
+      "compression_ratio": 1.6666666666666667,
+      "no_speech_prob": 0.009833225980401039
+    },
+    {
+      "id": 103,
+      "seek": 45048,
+      "start": 469.44,
+      "end": 475.20000000000005,
+      "text": " responsible for a spent battery and what should happen to it can boost recycling dramatically.",
+      "tokens": [
+        51311, 4497, 329, 257, 3377, 6555, 290, 644, 815, 1645, 284, 340, 460,
+        5750, 25914, 12034, 13, 51599
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07280117709462236,
+      "compression_ratio": 1.6666666666666667,
+      "no_speech_prob": 0.009833225980401039
+    },
+    {
+      "id": 104,
+      "seek": 47520,
+      "start": 475.28,
+      "end": 480.96,
+      "text": " For example, lead acid batteries are generally subject to stringent regulations and are recycled",
+      "tokens": [
+        50367, 1114, 1672, 11, 1085, 7408, 13591, 389, 4143, 2426, 284, 32791,
+        6647, 290, 389, 32099, 50651
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06857212302611046,
+      "compression_ratio": 1.6771929824561405,
+      "no_speech_prob": 0.013152250088751316
+    },
+    {
+      "id": 105,
+      "seek": 47520,
+      "start": 480.96,
+      "end": 486.96,
+      "text": " at much higher rates than lithium ion batteries. Over the next century, we'll need to recycle",
+      "tokens": [
+        50651, 379, 881, 2440, 3965, 621, 28444, 22088, 13591, 13, 3827, 262,
+        1306, 4289, 11, 356, 1183, 761, 284, 48914, 50951
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06857212302611046,
+      "compression_ratio": 1.6771929824561405,
+      "no_speech_prob": 0.013152250088751316
+    },
+    {
+      "id": 106,
+      "seek": 47520,
+      "start": 486.96,
+      "end": 492.56,
+      "text": " huge numbers of EV batteries, so scientists are working on making the battery recycling process",
+      "tokens": [
+        50951, 3236, 3146, 286, 8696, 13591, 11, 523, 5519, 389, 1762, 319,
+        1642, 262, 6555, 25914, 1429, 51231
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06857212302611046,
+      "compression_ratio": 1.6771929824561405,
+      "no_speech_prob": 0.013152250088751316
+    },
+    {
+      "id": 107,
+      "seek": 47520,
+      "start": 492.56,
+      "end": 497.36,
+      "text": " cheaper and more environmentally friendly. Smelting uses a lot of energy and depending on the",
+      "tokens": [
+        51231, 11721, 290, 517, 34132, 8030, 13, 2439, 417, 889, 3544, 257,
+        1256, 286, 2568, 290, 6906, 319, 262, 51471
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06857212302611046,
+      "compression_ratio": 1.6771929824561405,
+      "no_speech_prob": 0.013152250088751316
+    },
+    {
+      "id": 108,
+      "seek": 47520,
+      "start": 497.36,
+      "end": 503.28,
+      "text": " type of battery can release harmful byproducts. In addition to regulations, industrial processes,",
+      "tokens": [
+        51471, 2099, 286, 6555, 460, 2650, 13568, 416, 29498, 13, 554, 3090,
+        284, 6647, 11, 7593, 7767, 11, 51767
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06857212302611046,
+      "compression_ratio": 1.6771929824561405,
+      "no_speech_prob": 0.013152250088751316
+    },
+    {
+      "id": 109,
+      "seek": 50328,
+      "start": 503.28,
+      "end": 508.4,
+      "text": " and our own individual choices, battery tech will also continue to evolve. There are proof of",
+      "tokens": [
+        50363, 290, 674, 898, 1981, 7747, 11, 6555, 7261, 481, 635, 2555, 284,
+        18101, 13, 1318, 389, 6617, 286, 50619
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13315241264574457,
+      "compression_ratio": 1.5572519083969465,
+      "no_speech_prob": 0.0861891359090805
+    },
+    {
+      "id": 110,
+      "seek": 50328,
+      "start": 508.4,
+      "end": 514.3199999999999,
+      "text": " concept batteries being developed that can convert physical force, ambient sound, and even",
+      "tokens": [
+        50619, 3721, 13591, 852, 4166, 326, 460, 10385, 3518, 2700, 11, 25237,
+        2128, 11, 290, 772, 50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13315241264574457,
+      "compression_ratio": 1.5572519083969465,
+      "no_speech_prob": 0.0861891359090805
+    },
+    {
+      "id": 111,
+      "seek": 50328,
+      "start": 514.3199999999999,
+      "end": 519.76,
+      "text": " P into electricity. But if your top priority is to make your number one source of power,",
+      "tokens": [
+        50915, 350, 656, 8744, 13, 887, 611, 534, 1353, 8475, 318, 284, 787,
+        534, 1271, 530, 2723, 286, 1176, 11, 51187
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13315241264574457,
+      "compression_ratio": 1.5572519083969465,
+      "no_speech_prob": 0.0861891359090805
+    },
+    {
+      "id": 112,
+      "seek": 50328,
+      "start": 519.76,
+      "end": 523.1999999999999,
+      "text": " number one, sorry to say, but you're in for a long way.",
+      "tokens": [
+        51187, 1271, 530, 11, 7926, 284, 910, 11, 475, 345, 821, 287, 329, 257,
+        890, 835, 13, 51359
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13315241264574457,
+      "compression_ratio": 1.5572519083969465,
+      "no_speech_prob": 0.0861891359090805
+    },
+    {
+      "id": 113,
+      "seek": 50328,
+      "start": 525.04,
+      "end": 530.24,
+      "text": " That was your TED Ed lesson of the day, written and narrated by George Zaidan.",
+      "tokens": [
+        51451, 1320, 373, 534, 38436, 1717, 11483, 286, 262, 1110, 11, 3194,
+        290, 46190, 416, 4502, 1168, 1698, 272, 13, 51711
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13315241264574457,
+      "compression_ratio": 1.5572519083969465,
+      "no_speech_prob": 0.0861891359090805
+    },
+    {
+      "id": 114,
+      "seek": 53024,
+      "start": 530.96,
+      "end": 537.76,
+      "text": " The promise of a green energy future hinges significantly on lithium ion batteries. The workhorse",
+      "tokens": [
+        50399, 383, 6991, 286, 257, 4077, 2568, 2003, 41442, 5566, 319, 28444,
+        22088, 13591, 13, 383, 670, 30527, 50739
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2412839730580648,
+      "compression_ratio": 1.6282051282051282,
+      "no_speech_prob": 0.009196699596941471
+    },
+    {
+      "id": 115,
+      "seek": 53024,
+      "start": 537.76,
+      "end": 543.6,
+      "text": " of electric vehicles and energy storage. Yet this crucial technology faces considerable hurdles.",
+      "tokens": [
+        50739, 286, 5186, 5672, 290, 2568, 6143, 13, 6430, 428, 8780, 3037,
+        6698, 11091, 34283, 13, 51031
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2412839730580648,
+      "compression_ratio": 1.6282051282051282,
+      "no_speech_prob": 0.009196699596941471
+    },
+    {
+      "id": 116,
+      "seek": 53024,
+      "start": 543.6,
+      "end": 550.32,
+      "text": " The extraction of raw materials like lithium, cobalt, and nickel carries environmental and ethical",
+      "tokens": [
+        51031, 383, 22236, 286, 8246, 5696, 588, 28444, 11, 22843, 2501, 11,
+        290, 30666, 10732, 6142, 290, 15028, 51367
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2412839730580648,
+      "compression_ratio": 1.6282051282051282,
+      "no_speech_prob": 0.009196699596941471
+    },
+    {
+      "id": 117,
+      "seek": 53024,
+      "start": 550.32,
+      "end": 556.0,
+      "text": " concerns and the current global supply chain is vulnerable to geopolitical instability.",
+      "tokens": [
+        51367, 4786, 290, 262, 1459, 3298, 5127, 6333, 318, 8826, 284, 35493,
+        24842, 13, 51651
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2412839730580648,
+      "compression_ratio": 1.6282051282051282,
+      "no_speech_prob": 0.009196699596941471
+    },
+    {
+      "id": 118,
+      "seek": 55600,
+      "start": 556.64,
+      "end": 564.08,
+      "text": " Moreover, the very design of many of today's batteries doesn't prioritize end-of-life processing,",
+      "tokens": [
+        50395, 10968, 11, 262, 845, 1486, 286, 867, 286, 1909, 338, 13591, 1595,
+        470, 32980, 886, 12, 1659, 12, 6042, 7587, 11, 50767
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17361342442500127,
+      "compression_ratio": 1.5622317596566524,
+      "no_speech_prob": 0.03325657173991203
+    },
+    {
+      "id": 119,
+      "seek": 55600,
+      "start": 564.08,
+      "end": 570.56,
+      "text": " leading to a shockingly low recycling rate, less than 5% in some estimates.",
+      "tokens": [
+        50767, 3756, 284, 257, 49992, 1877, 25914, 2494, 11, 1342, 621, 642, 4,
+        287, 617, 7746, 13, 51091
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17361342442500127,
+      "compression_ratio": 1.5622317596566524,
+      "no_speech_prob": 0.03325657173991203
+    },
+    {
+      "id": 120,
+      "seek": 55600,
+      "start": 571.76,
+      "end": 578.48,
+      "text": " However, the horizon isn't bleak. Innovative solutions are emerging from direct recycling methods",
+      "tokens": [
+        51151, 2102, 11, 262, 17810, 2125, 470, 30942, 13, 43405, 876, 8136,
+        389, 11823, 422, 1277, 25914, 5050, 51487
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17361342442500127,
+      "compression_ratio": 1.5622317596566524,
+      "no_speech_prob": 0.03325657173991203
+    },
+    {
+      "id": 121,
+      "seek": 55600,
+      "start": 578.48,
+      "end": 584.0,
+      "text": " that preserve the battery structure to novel chemical processes that can efficiently recover",
+      "tokens": [
+        51487, 326, 12201, 262, 6555, 4645, 284, 5337, 5931, 7767, 326, 460,
+        18306, 8551, 51763
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17361342442500127,
+      "compression_ratio": 1.5622317596566524,
+      "no_speech_prob": 0.03325657173991203
+    },
+    {
+      "id": 122,
+      "seek": 58400,
+      "start": 584.0,
+      "end": 590.88,
+      "text": " valuable materials. Companies like Redwood Materials and EcoBAD are pioneering advanced recycling",
+      "tokens": [
+        50363, 8119, 5696, 13, 24382, 588, 2297, 3822, 24310, 290, 38719, 33,
+        2885, 389, 36304, 6190, 25914, 50707
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20220396790323378,
+      "compression_ratio": 1.5185185185185186,
+      "no_speech_prob": 0.06434066593647003
+    },
+    {
+      "id": 123,
+      "seek": 58400,
+      "start": 590.88,
+      "end": 598.08,
+      "text": " facilities, aiming to create a closed-loop system where old batteries become the feedstock for new ones.",
+      "tokens": [
+        50707, 7291, 11, 17272, 284, 2251, 257, 4838, 12, 26268, 1080, 810,
+        1468, 13591, 1716, 262, 3745, 13578, 329, 649, 3392, 13, 51067
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20220396790323378,
+      "compression_ratio": 1.5185185185185186,
+      "no_speech_prob": 0.06434066593647003
+    },
+    {
+      "id": 124,
+      "seek": 58400,
+      "start": 598.88,
+      "end": 605.84,
+      "text": " Also, research into battery-second-life applications, repurposing use EV batteries for grid storage,",
+      "tokens": [
+        51107, 4418, 11, 2267, 656, 6555, 12, 12227, 12, 6042, 5479, 11, 1128,
+        333, 32927, 779, 8696, 13591, 329, 10706, 6143, 11, 51455
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20220396790323378,
+      "compression_ratio": 1.5185185185185186,
+      "no_speech_prob": 0.06434066593647003
+    },
+    {
+      "id": 125,
+      "seek": 58400,
+      "start": 606.56,
+      "end": 610.8,
+      "text": " offers another avenue to maximize their value and minimize waste.",
+      "tokens": [
+        51491, 4394, 1194, 36132, 284, 20487, 511, 1988, 290, 17775, 7030, 13,
+        51703
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20220396790323378,
+      "compression_ratio": 1.5185185185185186,
+      "no_speech_prob": 0.06434066593647003
+    },
+    {
+      "id": 126,
+      "seek": 61080,
+      "start": 611.28,
+      "end": 618.0,
+      "text": " To truly unlock the potential of this circular economy, expanding accessible battery and recycling",
+      "tokens": [
+        50387, 1675, 4988, 12116, 262, 2785, 286, 428, 18620, 3773, 11, 11581,
+        9857, 6555, 290, 25914, 50723
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14386380237081778,
+      "compression_ratio": 1.6018099547511313,
+      "no_speech_prob": 0.00553252175450325
+    },
+    {
+      "id": 127,
+      "seek": 61080,
+      "start": 618.0,
+      "end": 624.3199999999999,
+      "text": " on both pedestrian and commercial levels is paramount. We need convenient drop-off points,",
+      "tokens": [
+        50723, 319, 1111, 22382, 290, 5068, 2974, 318, 37352, 13, 775, 761,
+        11282, 4268, 12, 2364, 2173, 11, 51039
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14386380237081778,
+      "compression_ratio": 1.6018099547511313,
+      "no_speech_prob": 0.00553252175450325
+    },
+    {
+      "id": 128,
+      "seek": 61080,
+      "start": 624.9599999999999,
+      "end": 628.8,
+      "text": " clear regulations that assign responsibility for end-of-life batteries,",
+      "tokens": [
+        51071, 1598, 6647, 326, 8333, 5798, 329, 886, 12, 1659, 12, 6042, 13591,
+        11, 51263
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14386380237081778,
+      "compression_ratio": 1.6018099547511313,
+      "no_speech_prob": 0.00553252175450325
+    },
+    {
+      "id": 129,
+      "seek": 61080,
+      "start": 629.52,
+      "end": 635.76,
+      "text": " and economic incentives that make recycling a viable and attractive option for consumers and",
+      "tokens": [
+        51299, 290, 3034, 16538, 326, 787, 25914, 257, 13971, 290, 10966, 3038,
+        329, 7008, 290, 51611
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14386380237081778,
+      "compression_ratio": 1.6018099547511313,
+      "no_speech_prob": 0.00553252175450325
+    },
+    {
+      "id": 130,
+      "seek": 63576,
+      "start": 635.76,
+      "end": 642.56,
+      "text": " businesses alike. Just as we've streamlined recycling for paper and aluminum, it robust and",
+      "tokens": [
+        50363, 5692, 12936, 13, 2329, 355, 356, 1053, 39673, 25914, 329, 3348,
+        290, 15955, 11, 340, 12373, 290, 50703
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11886677477094862,
+      "compression_ratio": 1.5782608695652174,
+      "no_speech_prob": 0.05274717137217522
+    },
+    {
+      "id": 131,
+      "seek": 63576,
+      "start": 642.56,
+      "end": 648.56,
+      "text": " accessible infrastructure for battery recycling is essential. This not only mitigates environmental",
+      "tokens": [
+        50703, 9857, 6884, 329, 6555, 25914, 318, 6393, 13, 770, 407, 691,
+        10255, 328, 689, 6142, 51003
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11886677477094862,
+      "compression_ratio": 1.5782608695652174,
+      "no_speech_prob": 0.05274717137217522
+    },
+    {
+      "id": 132,
+      "seek": 63576,
+      "start": 648.56,
+      "end": 655.4399999999999,
+      "text": " damage and conserves precious resources, but also strengthens domestic supply chains and paves the",
+      "tokens": [
+        51003, 2465, 290, 4055, 274, 14186, 4133, 11, 475, 635, 49286, 5928,
+        5127, 14659, 290, 279, 3080, 262, 51347
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11886677477094862,
+      "compression_ratio": 1.5782608695652174,
+      "no_speech_prob": 0.05274717137217522
+    },
+    {
+      "id": 133,
+      "seek": 63576,
+      "start": 655.4399999999999,
+      "end": 660.4,
+      "text": " way for a truly sustainable energy future powered by lithium and beyond.",
+      "tokens": [
+        51347, 835, 329, 257, 4988, 13347, 2568, 2003, 13232, 416, 28444, 290,
+        3675, 13, 51595
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11886677477094862,
+      "compression_ratio": 1.5782608695652174,
+      "no_speech_prob": 0.05274717137217522
+    },
+    {
+      "id": 134,
+      "seek": 66040,
+      "start": 660.4,
+      "end": 670.24,
+      "text": " Alright, that's our show. Thanks for listening. Ted Tech is a podcast from Ted. This episode",
+      "tokens": [
+        50363, 40967, 11, 326, 338, 674, 905, 13, 6930, 329, 8680, 13, 11396,
+        9634, 318, 257, 9905, 422, 11396, 13, 770, 4471, 50855
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.44211616998986353,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.019431276246905327
+    },
+    {
+      "id": 135,
+      "seek": 66040,
+      "start": 670.24,
+      "end": 676.0799999999999,
+      "text": " was produced by Trina Manino. Our editor is Alejandra Salazar, and the show is fact checked by",
+      "tokens": [
+        50855, 373, 4635, 416, 833, 1437, 1869, 2879, 13, 3954, 5464, 318, 9300,
+        73, 15918, 4849, 29413, 11, 290, 262, 905, 318, 1109, 10667, 416, 51147
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.44211616998986353,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.019431276246905327
+    },
+    {
+      "id": 136,
+      "seek": 66040,
+      "start": 676.0799999999999,
+      "end": 682.72,
+      "text": " Julia Dickerson. Special thanks to Kansan Zaganyardo, Danielle LaVareso, Maria Laddius,",
+      "tokens": [
+        51147, 22300, 11740, 882, 13, 6093, 5176, 284, 509, 504, 272, 1168, 363,
+        1092, 13109, 11, 39808, 4689, 53, 533, 568, 11, 14200, 406, 2860, 3754,
+        11, 51479
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.44211616998986353,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.019431276246905327
+    },
+    {
+      "id": 137,
+      "seek": 68272,
+      "start": 683.44,
+      "end": 690.24,
+      "text": " Tanzaka Suman Nivon, in Roxanne Highlash. If you're enjoying the show, make sure to subscribe",
+      "tokens": [
+        50399, 11818, 89, 8130, 5060, 272, 399, 452, 261, 11, 287, 34821, 21952,
+        3334, 75, 1077, 13, 1002, 345, 821, 13226, 262, 905, 11, 787, 1654, 284,
+        12383, 50739
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2939112326678108,
+      "compression_ratio": 1.3125,
+      "no_speech_prob": 0.10342099517583847
+    },
+    {
+      "id": 138,
+      "seek": 68272,
+      "start": 690.24,
+      "end": 696.0,
+      "text": " and leave us a review so other people can find us too. I'm Cheryl Dorsey. Let's keep digging into",
+      "tokens": [
+        50739, 290, 2666, 514, 257, 2423, 523, 584, 661, 460, 1064, 514, 1165,
+        13, 314, 1101, 37958, 12528, 4397, 13, 3914, 338, 1394, 18894, 656,
+        51027
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2939112326678108,
+      "compression_ratio": 1.3125,
+      "no_speech_prob": 0.10342099517583847
+    },
+    {
+      "id": 139,
+      "seek": 68272,
+      "start": 696.0,
+      "end": 705.84,
+      "text": " the future. Join me next week for more.",
+      "tokens": [
+        51027, 262, 2003, 13, 15251, 502, 1306, 1285, 329, 517, 13, 51519
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2939112326678108,
+      "compression_ratio": 1.3125,
+      "no_speech_prob": 0.10342099517583847
+    },
+    {
+      "id": 140,
+      "seek": 71272,
+      "start": 713.2,
+      "end": 722.08,
+      "text": " Ready to order? Yes. We're earning unlimited 3% cash back on dining and entertainment with a",
+      "tokens": [
+        50387, 23432, 284, 1502, 30, 3363, 13, 775, 821, 13748, 15822, 513, 4,
+        5003, 736, 319, 17423, 290, 9739, 351, 257, 50831
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2563449778455369,
+      "compression_ratio": 1.6744186046511629,
+      "no_speech_prob": 0.6169929504394531
+    },
+    {
+      "id": 141,
+      "seek": 71272,
+      "start": 722.08,
+      "end": 727.2,
+      "text": " capital one saver card. So let's just get one of everything. Everything. Fire everything. The",
+      "tokens": [
+        50831, 3139, 530, 473, 332, 2657, 13, 1406, 1309, 338, 655, 651, 530,
+        286, 2279, 13, 11391, 13, 3764, 2279, 13, 383, 51087
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2563449778455369,
+      "compression_ratio": 1.6744186046511629,
+      "no_speech_prob": 0.6169929504394531
+    },
+    {
+      "id": 142,
+      "seek": 71272,
+      "start": 727.2,
+      "end": 732.72,
+      "text": " capital one saver card is at table 27 and they're earning unlimited 3% cash back. Yes, Chef!",
+      "tokens": [
+        51087, 3139, 530, 473, 332, 2657, 318, 379, 3084, 2681, 290, 484, 821,
+        13748, 15822, 513, 4, 5003, 736, 13, 3363, 11, 26383, 0, 51363
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2563449778455369,
+      "compression_ratio": 1.6744186046511629,
+      "no_speech_prob": 0.6169929504394531
+    },
+    {
+      "id": 143,
+      "seek": 71272,
+      "start": 733.52,
+      "end": 737.76,
+      "text": " This is so nice. Had a feeling you'd want to represent cash back on dessert. Oh,",
+      "tokens": [
+        51403, 770, 318, 523, 3621, 13, 11161, 257, 4203, 345, 1549, 765, 284,
+        2380, 5003, 736, 319, 23084, 13, 3966, 11, 51615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2563449778455369,
+      "compression_ratio": 1.6744186046511629,
+      "no_speech_prob": 0.6169929504394531
+    },
+    {
+      "id": 144,
+      "seek": 73776,
+      "start": 737.84,
+      "end": 743.4399999999999,
+      "text": " Tera Masu! Earn unlimited 3% cash back on dining and entertainment with the capital one saver card.",
+      "tokens": [
+        50367, 3813, 64, 11066, 84, 0, 22535, 15822, 513, 4, 5003, 736, 319,
+        17423, 290, 9739, 351, 262, 3139, 530, 473, 332, 2657, 13, 50647
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21403207276996813,
+      "compression_ratio": 1.5315614617940199,
+      "no_speech_prob": 0.017458738759160042
+    },
+    {
+      "id": 145,
+      "seek": 73776,
+      "start": 743.4399999999999,
+      "end": 747.04,
+      "text": " Capital one. What's in your wallet? Terms apply. See capital one.com for details.",
+      "tokens": [
+        50647, 9747, 530, 13, 1867, 338, 287, 534, 13008, 30, 17637, 4174, 13,
+        4091, 3139, 530, 13, 785, 329, 3307, 13, 50827
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21403207276996813,
+      "compression_ratio": 1.5315614617940199,
+      "no_speech_prob": 0.017458738759160042
+    },
+    {
+      "id": 146,
+      "seek": 73776,
+      "start": 748.0,
+      "end": 753.92,
+      "text": " How will humans and machines work together in the future? We spend so much time discussing",
+      "tokens": [
+        50875, 1374, 481, 5384, 290, 8217, 670, 1978, 287, 262, 2003, 30, 775,
+        4341, 523, 881, 640, 11142, 51171
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21403207276996813,
+      "compression_ratio": 1.5315614617940199,
+      "no_speech_prob": 0.017458738759160042
+    },
+    {
+      "id": 147,
+      "seek": 73776,
+      "start": 753.92,
+      "end": 759.12,
+      "text": " how the world's changing. It would be absolutely absurd to believe the role of the CO is not.",
+      "tokens": [
+        51171, 703, 262, 995, 338, 5609, 13, 632, 561, 307, 5543, 12986, 284,
+        1975, 262, 2597, 286, 262, 7375, 318, 407, 13, 51431
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21403207276996813,
+      "compression_ratio": 1.5315614617940199,
+      "no_speech_prob": 0.017458738759160042
+    },
+    {
+      "id": 148,
+      "seek": 73776,
+      "start": 759.76,
+      "end": 766.3199999999999,
+      "text": " This is Imagine This, a podcast from BCG that helps the EO's consider possible futures for our",
+      "tokens": [
+        51463, 770, 318, 18450, 770, 11, 257, 9905, 422, 11843, 38, 326, 5419,
+        262, 412, 46, 338, 2074, 1744, 25650, 329, 674, 51791
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21403207276996813,
+      "compression_ratio": 1.5315614617940199,
+      "no_speech_prob": 0.017458738759160042
+    },
+    {
+      "id": 149,
+      "seek": 76632,
+      "start": 766.32,
+      "end": 770.8000000000001,
+      "text": " world and their businesses. Listen wherever you get your podcasts.",
+      "tokens": [
+        50363, 995, 290, 511, 5692, 13, 20600, 14530, 345, 651, 534, 31969, 13,
+        50587
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11400501351607473,
+      "compression_ratio": 1.6893203883495145,
+      "no_speech_prob": 0.21593745052814484
+    },
+    {
+      "id": 150,
+      "seek": 76632,
+      "start": 775.5200000000001,
+      "end": 779.84,
+      "text": " This episode is brought to you by Progressive Insurance. Do you ever think about switching",
+      "tokens": [
+        50823, 770, 4471, 318, 3181, 284, 345, 416, 25852, 17541, 13, 2141, 345,
+        1683, 892, 546, 15430, 51039
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11400501351607473,
+      "compression_ratio": 1.6893203883495145,
+      "no_speech_prob": 0.21593745052814484
+    },
+    {
+      "id": 151,
+      "seek": 76632,
+      "start": 779.84,
+      "end": 784.48,
+      "text": " insurance companies to see if you could save some cash? Progressive makes it easy to see if you",
+      "tokens": [
+        51039, 5096, 2706, 284, 766, 611, 345, 714, 3613, 617, 5003, 30, 25852,
+        1838, 340, 2562, 284, 766, 611, 345, 51271
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11400501351607473,
+      "compression_ratio": 1.6893203883495145,
+      "no_speech_prob": 0.21593745052814484
+    },
+    {
+      "id": 152,
+      "seek": 76632,
+      "start": 784.48,
+      "end": 790.08,
+      "text": " could save when you bundle your home and auto policies. Try it at Progressive.com. Progressive",
+      "tokens": [
+        51271, 714, 3613, 618, 345, 18537, 534, 1363, 290, 8295, 4788, 13, 9993,
+        340, 379, 25852, 13, 785, 13, 25852, 51551
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11400501351607473,
+      "compression_ratio": 1.6893203883495145,
+      "no_speech_prob": 0.21593745052814484
+    },
+    {
+      "id": 153,
+      "seek": 79008,
+      "start": 790.08,
+      "end": 801.0400000000001,
+      "text": " casualty insurance company and affiliates potential savings will vary not available in all states.",
+      "tokens": [
+        50363, 39068, 5096, 1664, 290, 29116, 2785, 10653, 481, 7565, 407, 1695,
+        287, 477, 2585, 13, 50911
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3903595606486003,
+      "compression_ratio": 1.180722891566265,
+      "no_speech_prob": 0.42904144525527954
+    }
+  ],
+  "language": "en"
+}
