@@ -17,6 +17,3 @@ for segment in data["segments"]:
     
     if classification == "ad segment":
         ads.append(segment["id"])
-
-print("Classification complete.")
-print("Ads:", ads)
