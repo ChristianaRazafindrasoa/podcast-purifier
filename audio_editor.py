@@ -20,3 +20,4 @@ for i in range(len(timestamps)):
         trimmed += audio[start:end]
 
 trimmed.export("trimmed_podcast.mp3", format="mp3")
+print("Podcast purified!")
