@@ -13,7 +13,6 @@ for segment in data["segments"]:
     text = f" Classify this segment: {segment['text']}"
     result = classifier(text, labels)
     classification = "ad segment" if result["labels"][0] == "commercial advertisement sponsor promotion" else "content segment"
-    confidence = result["scores"][0]
     
     if classification == "ad segment":
         ads.append(segment["id"])
