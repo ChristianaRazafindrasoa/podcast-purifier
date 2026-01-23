@@ -3,7 +3,7 @@ import json
 
 classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
 
-with open("whisper_output_example.json", 'r') as f:
+with open("samples/whisper_output_example.json", 'r') as f:
     data = json.load(f)
 
 labels = ["commercial advertisement sponsor promotion", "podcast educational content"]
