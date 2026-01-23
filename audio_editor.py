@@ -2,10 +2,10 @@ from pydub import AudioSegment
 from segment_classifier import ads
 import json
 
-audio = AudioSegment.from_file("original_podcast.mp3")
+audio = AudioSegment.from_file("samples/original_podcast.mp3")
 timestamps = []
 
-with open("whisper_output_example.json", "r") as f:
+with open("samples/whisper_output_example.json", "r") as f:
     segments = json.load(f)["segments"]
 
 for segment in segments:
@@ -19,5 +19,5 @@ for i in range(len(timestamps)):
         end = timestamps[i][1] * 1000
         trimmed += audio[start:end]
 
-trimmed.export("trimmed_podcast.mp3", format="mp3")
+trimmed.export("samples/trimmed_podcast.mp3", format="mp3")
 print("Podcast purified!")
