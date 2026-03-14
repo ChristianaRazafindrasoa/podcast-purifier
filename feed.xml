@@ -4,14 +4,14 @@
     <channel>
 
     <title>Private Podcast Channel</title>
-    <link>https://github.com/ChristianaRazafindrasoa/podcast-purifier/tree/main</link>
+    <link>https://christianarazafindrasoa.github.io/podcast-purifier/</link>
     <description>Ad free podcasts by Christiana</description>
 
     <item>
         <title>Podcast about batteries</title>
 
         <enclosure
-            url="https://github.com/ChristianaRazafindrasoa/podcast-purifier/blob/main/samples/trimmed_podcast.mp3"
+            url="https://christianarazafindrasoa.github.io/podcast-purifier/samples/trimmed_podcast.mp3"
             type="audio/mpeg"/>
 
         <guid>podcast1</guid>
