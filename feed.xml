@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+    <channel>
+
+    <title>Private Podcast Channel</title>
+    <link>https://github.com/ChristianaRazafindrasoa/podcast-purifier/tree/main</link>
+    <description>Ad free podcasts by Christiana</description>
+
+    <item>
+        <title>Podcast about batteries</title>
+
+        <enclosure
+            url="https://github.com/ChristianaRazafindrasoa/podcast-purifier/blob/main/samples/trimmed_podcast.mp3"
+            type="audio/mpeg"/>
+
+        <guid>podcast1</guid>
+
+    </item>
+
+    </channel>
+</rss>
