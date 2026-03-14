@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <rss version="2.0">
-    <channel>
-
+  <channel>
     <title>Private Podcast Channel</title>
     <link>https://christianarazafindrasoa.github.io/podcast-purifier/</link>
     <description>Ad free podcasts by Christiana</description>
+    <lastBuildDate>Sat, 14 Mar 2026 21:25:00 GMT</lastBuildDate>
 
     <item>
-        <title>Podcast about batteries</title>
-
-        <enclosure
-            url="https://christianarazafindrasoa.github.io/podcast-purifier/samples/trimmed_podcast.mp3"
-            type="audio/mpeg"/>
-
-        <guid>podcast1</guid>
-
+      <title>Podcast about batteries</title>
+      <enclosure url="https://christianarazafindrasoa.github.io/podcast-purifier/samples/trimmed_podcast.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">podcast1</guid>
+      <pubDate>Sat, 14 Mar 2026 21:25:00 GMT</pubDate>
     </item>
 
-    </channel>
+  </channel>
 </rss>
