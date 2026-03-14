@@ -18,5 +18,5 @@ for i in range(len(timestamps)):
         start = timestamps[i][0] * 1000
         end = timestamps[i][1] * 1000
         trimmed += audio[start:end]
-trimmed.export("trimmed_podcast.mp3", format="mp3")
+trimmed.export("samples/trimmed_podcast.mp3", format="mp3")
 print("Podcast purified!")
