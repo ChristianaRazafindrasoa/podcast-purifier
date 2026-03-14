@@ -8,9 +8,16 @@
 
     <item>
       <title>Podcast about batteries</title>
-      <enclosure url="https://christianarazafindrasoa.github.io/podcast-purifier/samples/trimmed_podcast.mp3" type="audio/mpeg" />
+      <enclosure url="https://christianarazafindrasoa.github.io/podcast-purifier/samples/battery031426.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">podcast1</guid>
       <pubDate>Sat, 14 Mar 2026 21:25:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Podcast about politics</title>
+      <enclosure url="https://christianarazafindrasoa.github.io/podcast-purifier/samples/politics031426.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">podcast2</guid>
+      <pubDate>Sat, 14 Mar 2026 21:42:00 GMT</pubDate>
     </item>
 
   </channel>
